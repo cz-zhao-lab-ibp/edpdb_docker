@@ -41,10 +41,12 @@ $ podman start -a 7fa1dad7c167
 For any bugs or issues please contact:
 - X. Cai Zhang, Ph.D.: zhangc@ibp.ac.cn
 - Yiwei Gao (Ph.D. Student): gaoyw@ibp.ac.cn
+
 Creating issues in this repository is also welcome.
   
 ## Authors
 EdPDB was originally developed by X. Cai Zhang and Brian W. Matthews.
+
 This docker image is maintained by Yiwei Gao.
 
 ## Reference
