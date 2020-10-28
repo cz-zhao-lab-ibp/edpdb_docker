@@ -50,7 +50,7 @@ The documentation of EdPDB can be found in [this page](http://175.24.30.189:8081
 
 ## Reporting bugs
 For any bugs or issues please contact:
-- X. Cai Zhang, Ph.D.: zhangc@ibp.ac.cn
+- [X. Cai Zhang](http://english.ibp.cas.cn/faculty/index_18316.html?json=http://www.ibp.cas.cn/sourcedb_ibp_cas/cn/ibpexport/EN_xsszmZ/202005/t20200519_5582960.json), Ph.D.: zhangc@ibp.ac.cn
 - Yiwei Gao (Ph.D. Student): gaoyw@ibp.ac.cn
 
 Creating issues in this repository are also welcome.
