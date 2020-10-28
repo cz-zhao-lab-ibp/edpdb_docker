@@ -32,7 +32,7 @@ edpdb_wd $edpdb
            [-c chainnames] [2nd_pdb_file [-c chainnames]]  [-i edp_file]
 ```
 ## Running this image using ```podman```
-Running containers in docker require root privileges. For RHEL and CentOS users, we recommend you run this docker container using podman.
+Running containers in docker require root privileges. For RHEL and CentOS users, we recommend you run this docker image using podman.
 ```
 $ podman pull docker.io/gaoyw/edpdb:v13a
 $ podman run -it -v /home/<username>/edpdb_wd:/edpdb_wd docker.io/gaoyw/edpdb:v13a
