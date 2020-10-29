@@ -1,5 +1,5 @@
 # The docker image of EdPDB
-We recommend you use EdPDB in containers as it requires a bundle of libraries which are not available in recent updates of most Linux distributions.
+We recommend all the users run EdPDB in a container, as it requires a bundle of libraries which are not available in recent updates of most Linux distributions.
 
 ## How to use this image
 Make sure an EdPDB working directory is accessible for volume binding. Replace the \<username\> with your username, or specify an available path.
