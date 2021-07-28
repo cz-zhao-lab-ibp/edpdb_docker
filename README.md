@@ -46,7 +46,7 @@ CONTAINER ID  IMAGE                       COMMAND  CREATED
 $ podman start -a 7fa1dad7c167
 ```
 ## EdPDB Documentation
-The documentation of EdPDB can be found in [this page](http://175.24.30.189:8081/edpdb/).
+The documentation of EdPDB can be found in [this page](http://175.24.30.189:8080/edpdb/).
 
 ## Reporting bugs
 For any bugs or issues please contact:
